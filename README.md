@@ -8,7 +8,7 @@ Then start the backend server as follows
 
 `npm install`
 
-`nodemon start`
+`nodemon app`
 
 This should start the server at port 5001 of your localhost. The next step is to run the code for the front end.
 
